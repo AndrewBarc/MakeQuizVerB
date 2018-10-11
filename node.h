@@ -1,3 +1,8 @@
+/**
+* @file node.h
+* @brief this is a file borrowed heavily for Main/Savitch data stuctures book. Features a node class that can be used to construct linked list.
+* @date 10/11/2018
+*/
 /*************************************************************************
       This file is borrowed heavily from Main/Savitch "Data Structures and
       Other Object Using C++," Chapter 5. It features a node class that 

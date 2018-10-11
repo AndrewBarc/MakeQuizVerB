@@ -1,3 +1,8 @@
+/**
+* @file tarray.h
+* @brief this is a class to introduce the syntax of working with template classes.
+* @date 10/11/2018
+*/
 /*********************************************************************
 	This is a class to introduce you to the syntax of working with 
 	template classes. Notice that the type being stored is completely

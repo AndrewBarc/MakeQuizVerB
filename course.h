@@ -1,3 +1,8 @@
+/**
+* @file course.h
+* @brief this file contains a class that stores the three essentail features of a completed college course.
+* @date 10/11/2018
+*/
 /***********************************************************************8
 	This class stores the three essential features of a completed 
 	college course: the course number, the grade received, and the 

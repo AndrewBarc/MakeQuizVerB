@@ -1,3 +1,8 @@
+/**
+* @file collegemain.cc
+* @brief this is the given main function to run other source files created to hold a list of collge courses.
+* @date 10/11/2018
+*/
 /******************************************************
 	This is the main for Project 3, which asks you to 
     build a container that holds a list of college courses.

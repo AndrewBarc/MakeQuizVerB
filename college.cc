@@ -1,3 +1,8 @@
+/**
+* @file college.cc
+* @brief This is a source file where linked list are used to manage a college course schedule.
+* @date 10/11/2018
+*/
 //********************
 //Matthew Aberegg
 //Project 3
